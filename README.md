@@ -1,0 +1,2 @@
+# GOJapan
+commonInfo
